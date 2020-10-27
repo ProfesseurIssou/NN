@@ -1,7 +1,7 @@
 import math
 import random
 
-#Cell Type:
+# Cell Type:
 # Input Cell
 # Backfed Input Cell
 # Noisy Input Cell
